@@ -1,2 +1,7 @@
 Hallo Boss Boss Boss! Salam kenal boss boss
 print("Hello Bos")
+
+a = 5
+b = 10
+c = a * b
+print(c)
