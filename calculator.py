@@ -1,5 +1,6 @@
-a = 2
+a = 2 
 b = 4
-print(a+b)
-perkalian = a*b
-print(perkalian)
+c = a + b
+print(c)
+pembagian = b/a
+print(pembagian)
